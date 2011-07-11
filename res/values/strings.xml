@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+        <item>Albania</item>
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Bulgaria</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Great Britain</item>
+        <item>Greece</item>
+        <item>Italy</item>
+        <item>Macedonia</item>
+        <item>Montenegro</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Serbia</item>
+        <item>Slovenia</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>The Netherlands</item>
+    </string-array>
+    
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="jul">Jul</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+    
+    <string name="back">Back...</string>
+    <string name="holidays">Holidays</string>
+    <string name="clickhere">Click Here...</string>
+    <string name="countries">Countries</string>
+    <string name="countries2">countries</string>
+    <string name="about">About</string>
+    <string name="about2">about</string>
+    
+    <string name="naslov">Welcome...</string>
+    <string name="about_main">aTrip2Europe is a simple application, containing short information about a few countries in Europe, together with a list of their national holidays (minus variable day holidays like Easter). So if you are planning a trip across Europe, this compact app might come in handy. To learn about an ongoing holiday with an interesting celebration, or an amusing historical fact and a place to visit, aTrip2Europe does it all :))</string>
+    <string name="about_author">Also this is my first published Android application, so I would appreciate Your support. For any bugs, or compliments contact me at Twitter or Facebook. Thank You!</string>
+    
+    	<string name="alb_name">Albania</string>
+        <string name="aus_name">Austria</string>
+        <string name="belg_name">Belgium</string>
+        <string name="bul_name">Bulgaria</string>
+        <string name="cro_name">Croatia</string>
+        <string name="den_name">Denmark</string>
+        <string name="fin_name">Finland</string>
+        <string name="fra_name">France</string>
+        <string name="ger_name">Germany</string>
+        <string name="gbr_name">Great Britain</string>
+        <string name="grc_name">Greece</string>
+        <string name="ita_name">Italy</string>
+        <string name="mac_name">Macedonia</string>
+        <string name="mon_name">Montenegro</string>
+        <string name="rom_name">Romania</string>
+        <string name="rus_name">Russia</string>
+        <string name="ser_name">Serbia</string>
+        <string name="slo_name">Slovenia</string>
+        <string name="spa_name">Spain</string>
+        <string name="swe_name">Sweden</string>
+        <string name="net_name">The Netherlands</string>
+        
+        <string name="alb_1">Awaking Sleeping Beauty - like in the 1990s from her hardline communist isolation, Albania was a stranger from another time. Her cities weren\'t choked by car fumes, her beaches were unspoilt by mass tourism, her long-suffering people were a little dazed and confused. While things have changed a lot since then, this ancient land still offers something increasingly rare in Europe  these days \- a glance into a culture that is all its own. Raised on a diet of separation and hardship, Albania is distinctly Albanian.</string>
+        <string name="alb_2">You\'ll continue to find beautiful pristine beaches on parts of the Ionian Coast (try the charming town of Saranda), fascinating classical sites like ancient Berat, and dramatic mountain citadels, but the mad traffic of Tirana is symptomatic of a bustling, bright city shrugging off its Stalinist grey patina. Squat toilets are no longer the norm and you can even sip cocktails at hip bars while listening to rock bands. Meanwhile, Northern Albania keeps the country\'s reputation as a wild frontier alive and well, with bleak mountains and the occasional blood feud. Not just the preserve of the adventurous, Albania is a warm and sincerely hospitable country \- with enough rough edges to keep it interesting.</string>
+        <string name="aus_1">Vienna\'s jewel-box palaces and Mozart melodies, sparkling Alps and problems like Maria naturally still have their place in Austria\'s heart. But venture further for experiences that defy expectations: from slinging on a backpack to stride through the Tennengebirge\'s lunar landscape to slurping cider with grizzled farmers in Mostviertel orchards, from catapulting down the jaw-dropping Harakiri in Mayrhofen to bathing in Salzkammergut\'s tingly lakes. Visit historic spa towns like Bad Ischl or discover cities such as Linz, where a newfound street cred is adding a twist to Austria\'s tale. So cast aside the well-thumbed picture-book, as the real story is even more enchanting…</string>
+        <string name="aus_2">Austria flaunts its heritage in exuberant fashion. Vienna\'s bombastic Habsburg palaces and Salzburg\'s baroque splendour are worthy, but dig deeper and you’ll unearth Stone Age settlements, Roman archaeological sites at Carnuntum  and medieval festivals. In the country where Mozart composed and Strauss taught the world to twirl, you won\'t need to search hard for culture - it waltzes right up to you. </string>
+        <string name="bel_1">At long last Belgium, it seems, has come of age. This little country recently celebrated its 175th anniversary of independence and, following several years of big, bold moves to shake off a mousy image, life is now on a pretty even keel. Sure, there are ups (tennis greats) and downs (don\'t mention the Red Devils or national debt), but most Belgians are more than happy with their spot in the world, and wouldn\'t change it for quids.</string>
+        <string name="bel_2">For a hearty dose of the medieval architecture and atmosphere in time-capsule condition, Bruges is a lovely spot, despite the fact that hoards of tourists would agree. Brussels and Antwerp are both dynamic cities, or scale down the pace a touch in Ghent, once a medieval city to rival Paris and today one of the swingingest towns in Belgium...</string>
+        <string name="bul_1">Five centuries subjugated to Ottoman rule and, more recently, four decades locked very firmly behind the Iron Curtain turned Bulgaria into a distant, enigmatic country in the eyes of much of the rest of the world. Images of cheap wine downed at student house parties, budget ski holidays and umbrella-wielding Cold War assassins were once among the popular stereotypes, but Bulgaria today is a vastly different country from what it was even 10 years ago. </string>
+        <string name="bul_2">For most foreign holidaymakers, Bulgaria\'s main lure is its long, sandy Black Sea Coast - which still boasts swaths of stunning beaches and picturesque bays despite the expansive construction work - but there is so much more to this country, and so much of it remains largely untouched and unvisited by overseas tourists. Networks of well-maintained hiking trails and horse-riding routes allow you to discover Bulgaria\'s lush mountainous and forested landscapes, especially around the Rila and Pirin Mountains, inhabited by bears, lynx, rare birds and other kinds of wildlife now becoming scarce elsewhere in Europe. </string>
+        <string name="cro_1">Despite the hype, Croatia\'s pleasures are more timeless than trendy. Along its 1778km coastline, a glistening sea winds around rocky coves, lapping at pine-fringed beaches. Istrian ports bustle with fishermen while children dive into the sparkling water. In Dalmatia, cities throb with nightlife amid ancient Roman ruins.</string>
+        <string name="cro_2">Yachts glide up the coast, movie stars discreetly arrange to buy one of Croatia\'s 1185 islands and no Mediterranean cruise is complete without a stop in Dubrovnik. The interior landscape is as beguiling, even though less visited. Soak in a thermal spa at Istarske Toplice in Istria. Hike through pristine forests watered by mountain streams in the west. Let the waterfalls of Plitvice moisten your face. And then there\'s the culture. The country that endured Roman, Venetian, Italian and Austro-Hungarian rule has a unique and slightly schizoid identity. You\'ll find a strong central European flavour in the baroque architecture of Zagreb, and Italian devotion to the good life percolates up from the coast, permeating Croatian food and style. During holidays and festivals the country\'s Slavic soul emerges, as colourfully costumed dancers whirl about to traditional folk melodies.</string>
+        <string name="den_1">The Danes are, overwhelmingly, a happy bunch. In fact, if you believe those contentment surveys that come out every couple of years, Denmark is one of the happiest nations on earth with some of the best quality of life. Along winding cobbled streets Danes shop and dine at some of the most exciting places in Europe. Copenhagen\'s restaurants have more Michelin stars than any other Scandinavian city, and Denmark as a whole would doubtless have more still if the inspectors from Michelin ever troubled themselves to leave the capital and head for Aalborg or Arhus and around. Even standards in a workaday Danish cafe are generally very high. </string>
+        <string name="den_2">Beyond the capital and the bigger cities, Denmark offers a mix of lively towns such as Ribe and Odense  plus rural countryside, medieval churches, Renaissance castles and tidy 18th-century villages. Neolithic dolmen, preserved 2000-year-old \'bog people\', and impressive Viking ruins are just some of the remnants of the nation\'s long and fascinating history.</string>
+        <string name="fin_1">There\'s something pure in the Finnish air and spirit that\'s incredibly vital and exciting. Although socially and economically it is in the vanguard of nations, parts of the country remain gloriously remote. With the trendsetting modern capital of Helsinki counterbalanced by vast forested wildernesses in the north and east, like Lemmenjoki National Park and Oulanka National Park. These wilds are perfect for treks among the pines and lakes in summer. And who\'d have thought that so far north you could have such a summer?</string>
+        <string name="fin_2">It is a golden, sunny season when Finland bursts into life with an explosion of festivals, good cheer and optimism. It is a time when the towns are buzzing, but it is also a time to head for the lakelands of Mikkeli and around and Lappeenranta. Sit on the veranda of a waterside wooden cottage and watch the summer sun shining low over the trees, and you will have experienced one of Finland\'s ultimate treats.. a real Nordic peace that eases the soul.</string>
+        <string name="fra_1">Good, bad or ugly, everyone has something to say about France and the French.. chic, smart, sexy, rude, racist, bureaucratic, bitchy as hell, pavements studded with dog poo, baguettes that dry out by lunchtime and a penchant for torching cars is some of the chitchat on the street. Spice up the cauldron with the odd urban riot, political scandal and a 35-hour working week - not to mention a massive box-office hit like The Da Vinci Code taking over Paris or superstar Angelina Jolie allegedly plumping for a chateau in Normandy to raise her kids - and the international media is all ears too.</string>
+        <string name="fra_2">This is, after all, that fabled land of good food and wine, of royal chateaux and perfectly restored farmhouses, of landmarks known the world over and hidden landscapes few really know. Savour art and romance in the shining capital on the River Seine. See glorious pasts blaze forth at Versailles. Travel south for Roman civilisation and the sparkling blue Med.. indulge your jet-set fantasies in balmy Nice and St-Tropez. </string>
+        <string name="ger_1">Beer or wine? That sums up the German conundrum. One is at the heart of a pilsner-swilling culture that draws kegloads of visitors annually, is the very reason for one of the world’s great parties (Oktoberfest) and is consumed with pleasure across the land. The other is exported worldwide, is responsible for gorgeous vine-covered valleys and is enjoyed everywhere, often from cute little green-stemmed glasses.</string>
+        <string name="ger_2">And the questions about Germany continue. Berlin or Munich? Castle or club? Ski or hike? East or west? BMW or Mercedes? In fact, the answers are simple: both. Why decide? The beauty of Germany is that rather than choosing, you can revel in the contrasts (except maybe with the car question…). Exploring this country and all its facets can keep visitors happy for weeks.</string>
+        <string name="gbr_1">Modern Britain is a tale of three countries. A visitor looking for castles and cathedrals, \'olde\' pubs, rolling hills and a sense of history permeating the whole country won\'t be disappointed. But this damp little island positively bursts with contemporary attractions, from regenerated provincial cities with cutting-edge architecture to the best in global cuisine.</string>
+        <string name="gbr_2">Sample a little of both traditional and modern worlds and you\'ll get a real taste of Britain in the 21st century. Great Britain comprises the countries of England, Scotland and Wales. For information, trip ideas and recommendations, explore those areas on our site.</string>
+        <string name="gre_1">Greece offers a myriad of experiences, landscapes and activities. It is the pulsing nightclubs of Mykonos and the ancient beauty of Delos; the grandeur of Delphi and the earthiness of Ioannina; the rugged hillsides of Crete and the lush wildflowers of spring. It is the blinding light of the Mykonos sun, the melancholy throb of Thessaloniki\'s rembetika (blues songs), the tang of home-made tzatziki, the gossip in the kafeneia (coffee shops). It is the Parthenon - solitary and pristine - lording it over the hazy sprawl of Athens.</string>
+        <string name="gre_2">Greece is a country with a hallowed past and an at-times turbulent present. Appreciation of the achievements of its classical past has tended to overshadow its development as a free nation since the War of Independence from the Ottomans in 1821. Many foreign Hellenists imbued with a romantic ideal of the Greece of Pericles and the Parthenon are blithely ignorant that Greece today is a vibrant modern European country. It is equally a land where the languages of recent migrant communities from the Balkans, Africa and Asia - not to mention the English and German of EU migrants and retirees - contribute to Greece\'s status as one of Europe\'s more recent multicultural societies. </string>
+        <string name="ita_1">The Belpaese (Beautiful Country) is one of the single greatest repositories of sensorial pleasures on earth. From art to food, from stunning and varied countryside to flamboyant fashion, Italy has it all. This is the country that brought us Slow Food, devoted to the promotion of fresh products and fine traditional, cooking. What started as a local protest against fast food has become a worldwide movement.</string>
+        <string name="ita_2">With 44 sites, Italy has more Unesco World Heritage sites than any other country on earth. Its great città d’arte (cities of art), like Rome, Venice and Florence, have been attracting visitors for centuries, and with good reason. At times, it seems like the country rests on its artistic laurels. This is not entirely true. Milan, the country’s financial hub, has created one of Europe’s biggest and most modern trade fairs and is planning a major residential development, the CityLife complex, in the heart of the city. Venice  is possibly the city that has, in appearance, changed least down the decades but it has recently opened a sleek new bridge over the Grand Canal and a spectacular contemporary art space at the Punta della Dogana.</string>
+        <string name="mac_1">Mountainous Macedonia still has an air of mystery to it. Simultaneously ancient and brand new, it’s struggling to find its place in the postcommunist world. Black-clad Orthodox monks are just as much a part of this renewal as the hordes of teenagers, bedecked in the latest Italian fashions, sipping coffee in the stylish bars of the capital.</string>
+        <string name="mac_2">For outdoors types it\'s a paradise. Its extensive wilderness allows ample opportunities for hikers, mountain climbers and skiers. Try the stunning Mavrovo National Park in Western Macedonia  for the country\'s best skiing and some unforgettable alpine views. Meanwhile, ancient ruins will fascinate anyone with even a smidgen of interest in history, as will the amazing Sveti Naum monastery. The culturally-rich town of Ohrid is one of Macedonia\'s highlights, with its beautiful lake and spiritual significance.. capital Skopje is a buzzing place where Eastern European stereotypes and unexpected attractions coexist with intriguing results. In short, for a little place it\'s crammed with something for just about everyone.</string>
+        <string name="mon_1">Expect newly independent Montenegro to come out from its Yugoslav shadow and be seen for the beauty it is. No longer should visitors think they will fall off the edge of the world if they journey east beyond Dubrovnik. Croatia\'s sapphire blue Adriatic Sea does continue. However here it\'s backed by a craggy, grey mountain range leaving just enough room for a ribbon of coastal towns on a sweep of sandy beaches and small coves running down to the Albanian border. </string>
+        <string name="mon_2">Historic walled towns like Stari Bar, Budva, Kotor and Herceg Novi  are perfect for exploring, and anywhere along the coast you can find private rooms in a laze-away seaside town. The interior is a setting of dramatic mountains tufted with pine forests, dotted with lakes and scored by giddy-deep canyons. The highest region, the Durmitor National Park, is a favourite for winter skiing and summer hiking in a pristine mountainscape while below in Tara\'s deep canyon, intrepid rafters challenge its tumbling rapids. So much for a small country – the world\'s newest nation.</string>
+        <string name="rom_1">Travelling in Romania, the EU\'s newest member, is like being somewhere between an eternal Halloween and the Led Zeppelin IV cover that features a twig-carrying farmer. Even in cities where Audis zoom across highways under video-camera speed traps, Romanian life is defined by its sweet country heart. Most anywhere, you\'ll spot horse-drawn buggies crossing the (often cratered) paved roads – up green mountains, past cone-shaped haystacks and herds of sheep – which bounce along as if the roads themselves are aliens to the land. And then there\'s that Dracula thing. Many visitors, lured by bloodcurdling tales, make full trips out of Transylvania\'s castles and lovely medieval Saxon towns like Sighişoara, where the ‘real Dracula\' (Vlad Ţepeş) first grew his teeth.</string>
+        <string name="rom_2">But travellers limiting themselves to chasing vampires will miss so much. The capital, Bucharest, has its critics, but the blend of grotesque communist monuments and purposefully hidden-away cathedrals makes for fascinating exploring. Excellent hiking, biking and skiing are found all over the Transylvanian Alps (aka the Carpathian Mountains), which curl across central Romania. Farmhouse BandBs allow guests to soak up some village life, particularly in the bucolic paradises of Maramureş and Southern Bucovina, where cemeteries and monasteries are painted as boldly as pop-art paintings.</string>
+        <string name="rus_1">For centuries the world has wondered what to believe about Russia. The country has been reported variously as a land of unbelievable riches and indescribable poverty, cruel tyrants and great minds, generous hospitality and meddlesome bureaucracy, beautiful ballets and industrial monstrosities, pious faith and unbridled hedonism. These eternal Russian truths coexist in equally diverse landscapes of icy tundra and sun-kissed beaches, dense silver birch and fir forests and deep and mysterious lakes, snow-capped mountains and swaying grasslands – those famous steppes. Factor in ancient fortresses, luxurious palaces, swirly spired churches and lost-in-time wooden villages and you\'ll begin to see why Russia is simply amazing.</string>
+        <string name="rus_2">To get the most from Russia, head way off the beaten track. After taking in old favourites such as dynamic Moscow, historic St Petersburg and beautiful Lake Baikal, dive further and deeper into the largest country in the world. Visit the soft, golden sands of the old Prussian resort of Kranz, now known as Zelenogradsk in the far western Kaliningrad Region; the charming Volga river village of Gorodets, home to folk artists and honey-cake bakers; fascinating Elista, Europe\'s sole Buddhist enclave and location of the wacky Chess City; the 400-year-old mausoleums of Dargavs, a North Ossetian ‘city of the dead\'; or the hot springs of Kamchatka\'s Nalychevo Valley in the Russian Far East.</string>
+        <string name="ser_1">Serbia (Srbija) is yet to come within most tourists\' comfort zone, but having got rid of Slobodan Milošević and become a democracy, the nation is now knocking on the doors of Europe, and in the meantime is a safe and welcoming place to visit. The most exciting spot is undoubtedly its capital, Belgrade, a gritty, energetic city. Cultural buffs can revel in its architecture and museums, foodies in its restaurants, while party animals will get no rest exploring its incessant nightlife. </string>
+        <string name="ser_2">Vojvodina\'s flat plains and the tranquil Fruška Gora monasteries provide an effective antidote to urban chaos, while Novi Sad is home to the world-famous Exit music festival. Proud and traditional Southern Serbia  is a land of lush rolling hills and wooded valleys brushing up against rugged mountains. The medieval monasteries of Manasija, Sopoćani and Studenica remain the keepers of Serbian faith and Byzantine art, while the mountains of Zlatibor and Kopaonik provide snow fun in winter and glorious hiking in summer. Mosques mix with monasteries in Novi Pazar, where life in the Turkish quarter continues much as it did a century ago when the Turks were still in power. </string>
+        <string name="slo_1">It\'s a tiny country, about half the size of Switzerland, and counts just over two million people. But the only way to describe pint-sized Slovenia (Slovenija), an independent republic bordering Italy, Austria, Hungary, Croatia and the Adriatic Sea, is that it\'s \'a mouse that roars\'.</string>
+        <string name="slo_2">Slovenia has been dubbed a lot of things since independence in 1991 - \'Europe in Miniature\', \'The Sunny Side of the Alps\', \'The Green Piece of Europe\' - and, though they may sound like tourist-brochure blurbs, they\'re all true. From beaches, snow-capped mountains, hills awash in grapevines and wide plains blanketed in sunflowers, to Gothic churches, baroque palaces, historic castles and art nouveau civic buildings, Slovenia offers more diversity than countries many times its size. Its incredible mixture of climates brings warm Mediterranean breezes up to the foothills of the Alps, where it can even snow in summer. With more than half of its total area covered in forest, Slovenia truly is one of the greenest countries in the world - and in recent years it has also become Europe\'s activities playground.</string>
+        <string name="spa_1">Stretching sun-drenched and untamed to the south of the wild and majestic Pyrenees, this passionate nation works a mysterious magic. Spain is littered with hundreds of glittering beaches; flamenco bailaors (dancers) swirl in flounces of colour; and toreros  (bullfighters) strut their stuff in the bullrings. Summer holidaymakers gather around great pans of steaming paella (at its tasty best in Valencia) and pitchers of sangria…</string>
+        <string name="spa_2">Beyond these clichéd images, a vast, unexpected panorama unfolds before you. Emerald green mountains seem to slide into the wild blue Atlantic in the north. Proud, solitary castles and medieval towns are strewn across the interior. White villages glitter in inland Andalucía. Rugged mountain ranges such as the Sierra Nevada (Europe\'s most southerly ski resort) are draped across the country. The Celtic music of Cantabria, Asturias and Galicia reminds one of the misty lands of Brittany, Scotland and Ireland.</string>
+        <string name="swe_1">The midnight sun, the snowbound winters, meatballs, herring, Vikings and Volvos, ABBA and the Hives - whatever your pre-existing notions about Sweden may be, a visit to this multifaceted country is bound to both confirm and confound them. Though you\'re unlikely to be greeted at the shore by throngs of mead-swilling berserkers in longships, evidence of the Vikings and their pillaging days is easy to find. A stroll through the Swedish countryside will often lead to a picnic on some ancient king\'s burial mound. Cycling routes frequently pass through fields crowned with ship-shaped stone graves. In cities and alongside roadways, rune stones staunchly declare the historical equivalent of \'Ingmar was here\'... </string>
+        <string name="swe_2">But Sweden\'s days as a warlike nation are long gone. Instead, its domestic and international policies serve as models of neutrality and consensus-building. This is, after all, the birthplace of the Nobel Peace Prize. Travellers today are more likely to be slayed by visions of pastoral beauty - intense green countryside, impenetrable forests, little red cottages atop remote islands and, everywhere, Sweden\'s famously clear blue water. </string>
+        <string name="net_1">There aren\'t many countries with so much land below sea level. There aren\'t many - if any - countries this flat. There aren\'t many countries with so much reclaimed land. There aren\'t many countries this densely populated, and yet so liberal. There aren\'t many countries with so much water and wind, or so many boats, sails, bikes, birds, dykes, polders, windmills, flowers, fish, bridges, cafés, cheese - and tall people. And there certainly aren\'t many countries who can claim such a vibrant colour (vivid orange in this case) as their own. Simply put, there is no place like the Netherlands.</string>
+        <string name="net_2">Start with the Dutch cities. Who hasn\'t heard of Amsterdam, the capital of culture, coffeeshops and canals? Its mesmerising beauty is hard to overestimate, and yet a surfeit of stunning metropoles are only hours, or even minutes, away by train. Haarlem, Groningen City, Rotterdam, Utrecht City, Den Haag, Leiden, Delft, Maastricht - the list seems endless, a mind-boggling concept considering the size of this small nation. </string>
+        
+    <string name="newyear">New Years Day</string>
+	<string name="newyeareve">New Years Eve</string>
+	<string name="epiphany">Epiphany</string>
+	<string name="labour">Labour Day</string>
+	<string name="assumption">Assumption of Mary</string>
+	<string name="aus_national">National Day</string>
+	<string name="allsaints">All Saints Day</string>
+	<string name="xmaseve">Christmas Eve</string>
+	<string name="xmas2">2nd Day Christmas</string>
+	<string name="xmas">Christmas Day</string>
+	<string name="ststephen">St Stephens Day</string>
+	<string name="nationalday">National Day</string>
+	<string name="allsouls">All Souls Day</string>
+	<string name="armistice">Armistice Day</string>
+	<string name="dynasty">Dynasty Day</string>
+	<string name="liberationbulgaria">Liberation Day</string>
+	<string name="army">Army Day</string>
+	<string name="educationculture">Education and Culture Day</string>
+	<string name="antifascist">Anti-Fascist Struggle Day</string>
+	<string name="statehood">Statehood Day</string>
+	<string name="victory">Victory Day</string>
+	<string name="moundy">Moundy Thursday</string>
+	<string name="generalprayer">General Prayer Day</string>
+	<string name="boxing">Boxing Day</string>
+	<string name="constitution">Constitution Day</string>
+	<string name="mayday">May Day</string>
+	<string name="veday">VE Day</string>
+	<string name="bastille">Bastille Day</string>
+	<string name="peacefestival">Peace Festival</string>
+	<string name="germanunity">German Unity Day</string>
+	<string name="reformation">Reformation Day</string>
+	<string name="stpatrick">St Patrick Day</string>
+	<string name="liberation">Liberation Day</string>
+	<string name="tynwald">Tynwald Day</string>
+	<string name="orangeman">Orangemans Day</string>
+	<string name="greeknational">Greek National Day</string>
+	<string name="aniversaryrep">Aniversary of Republic</string>
+	<string name="immaculate">Immaculate Conception</string>
+	<string name="vodici">Baptism of Jesus</string>
+	<string name="kirilmetodi">St Kiril i Metodij</string>
+	<string name="ilinden">Ilinden</string>
+	<string name="uprising">Uprising Day</string>
+	<string name="revolutionary">Revol. Struggle Day</string>
+	<string name="revolution">Revolution Day</string>
+	<string name="kliment">St Kliment Ohridski</string>
+	<string name="woman">Womans Day</string>
+	<string name="children">Childrens Day</string>
+	<string name="flag">Flag Day</string>
+	<string name="anthem">Anthem Day</string>
+	<string name="union">Union Day</string>
+	<string name="defenderfather">Defenders of the Fatherland</string>
+	<string name="russia">Russia Day</string>
+	<string name="unity">Unity Day</string>
+	<string name="stsava">St Sava</string>
+	<string name="ortnewyear">Orthodox New Years</string>
+	<string name="vidovdan">Vidovdan</string>
+	<string name="culture">Culture Day</string>
+	<string name="natresistance">National Resistance Day</string>
+	<string name="remembrance">Remembrance Day</string>
+	<string name="stjoseph">St Josephs Day</string>
+	<string name="galician">Galician Literature Day</string>
+	<string name="stjohn">St John Day</string>
+	<string name="hispanic">Hispanic Day</string>
+	<string name="municipal">Municipal Holiday</string>
+	<string name="queens">Queens Day</string>
+	<string name="stnicholas">St Nicholas Eve</string>
+	<string name="independance">Independance Day</string>
+	<string name="teacher">Teachers Day</string>
+	<string name="spring">Spring Day</string>
+	<string name="nevruz">Nevruz Day</string>
+	<string name="fools">April Fools Day</string>
+	<string name="teresa">Mother Teresa Day</string>
+    
+    <string name="app_name">a Trip to Europe...</string>
+    
+</resources>

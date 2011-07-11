@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:shrinkColumns="*"
+    android:stretchColumns="*">
+
+    <TableRow>
+        <TextView
+            android:layout_column="2"
+            android:text="@string/rom_name"
+            android:padding="3dip"
+            android:textSize="20px" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+        <TextView
+            android:text="@string/jan"
+            android:padding="3dip" />
+        <TextView
+            android:text="1,2"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/newyear"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+        <TextView
+            android:text="@string/mar"
+            android:padding="3dip" />
+        <TextView
+            android:text="8"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/woman"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+        <TextView
+            android:text="@string/may"
+            android:padding="3dip" />
+        <TextView
+            android:text="1"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/labour"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+        <TextView
+            android:text="@string/jun"
+            android:padding="3dip" />
+        <TextView
+            android:text="1"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/children"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    <TableRow>
+        <TextView
+            android:text="@string/jun"
+            android:padding="3dip" />
+        <TextView
+            android:text="26"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/flag"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    <TableRow>
+        <TextView
+            android:text="@string/jul"
+            android:padding="3dip" />
+        <TextView
+            android:text="29"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/anthem"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    <TableRow>
+        <TextView
+            android:text="@string/aug"
+            android:padding="3dip" />
+        <TextView
+            android:text="15"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/assumption"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    <TableRow>
+        <TextView
+            android:text="@string/dec"
+            android:padding="3dip" />
+        <TextView
+            android:text="1"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/union"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+        
+    <TableRow>
+        <TextView
+            android:text="@string/dec"
+            android:padding="3dip" />
+        <TextView
+            android:text="8"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/constitution"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+    <TableRow>
+        <TextView
+            android:text="@string/dec"
+            android:padding="3dip" />
+        <TextView
+            android:text="25"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/xmas"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+	<TableRow>
+        <TextView
+            android:text="@string/dec"
+            android:padding="3dip" />
+        <TextView
+            android:text="26"
+            android:padding="3dip" />
+        <TextView
+            android:text="@string/boxing"
+            android:gravity="right"
+            android:padding="3dip" />
+    </TableRow>
+    
+    <View
+        android:layout_height="2dip"
+        android:background="#FF909090" />
+
+    <TableRow>
+        <Button
+        	android:text="@string/back"
+			android:id="@+id/rom_back" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" 
+			android:clickable="true" 
+			android:gravity="center|fill"
+			android:padding="10px"
+			/>
+    </TableRow>
+</TableLayout>
+</ScrollView>
